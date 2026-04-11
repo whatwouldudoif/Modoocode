@@ -1,0 +1,5 @@
+.DS_Store
+Project1/*.dSYM/
+Project1/char_scanf
+Project1/hello_c
+Project1/hello_cpp
